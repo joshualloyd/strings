@@ -42,9 +42,3 @@ button.addEventListener('click', function() {
 	processStrings();
 });
 
-
-// var testString = "tacocat";
-// reversal(testString);
-// alphabits(testString);
-// palindrome(testString);
-
